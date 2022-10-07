@@ -1,0 +1,13 @@
+  .item {
+    color: greenyellow;
+  }
+
+  .item img {
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+  }
+
+  .smallImg {
+    height: 50px;
+  }
